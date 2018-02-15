@@ -1,0 +1,46 @@
+/* add your CSS here */
+body {
+  padding: 10px;
+  font-family: arial sans-serif helvetica;
+  background: #f0f0f0;
+}
+.bold {
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 2em;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  color: #f4f807;
+  text-align: center;
+  text-shadow: 4px 4px 3px #000;
+  background: rgba(148, 237, 243, 0.3);
+  border-radius: 5px;
+}
+ul {
+  margin: 0;
+  padding-left: 0px;
+  text-align: left;
+}
+li {
+  list-style: none;
+}
+img {
+  border-radius: 5px;
+}
+#main {
+  width: 300px;
+  box-shadow: 7px 7px 2px #585555;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #585555;
+  background: linear-gradient(#f00, #ff0);
+}
+
+.main {
+  border: 1px solid #cdcdcd;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
